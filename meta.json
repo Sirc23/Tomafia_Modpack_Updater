@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44ef83d8dd768976e529da68bb1c492d9dbf2a31345254f18c4370b2eafe599a
-size 73
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+	{
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "generic": "https://sirc23.github.io/Tomafia_Modpack_Updater/downloads/1.0.0/Tomafia%20Pack%20Forge.zip"
+            }
+        }
+    }
+  ]
+}
