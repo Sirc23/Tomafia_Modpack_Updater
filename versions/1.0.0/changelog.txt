@@ -1,2 +1,3 @@
-glhf gamers
-let Sirc know if you experience any game freezes or crashes
+version https://git-lfs.github.com/spec/v1
+oid sha256:745408d0942dc8ec6691e9601e540cd4816fc5dda9c64e158e8d2892c66f8ef1
+size 71
