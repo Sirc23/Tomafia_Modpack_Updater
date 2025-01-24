@@ -7,9 +7,9 @@
         "releasedAt": 1737643951000,
         "promotions": {
 			"downloads": {
-                "modrinth": "https://sirc23.github.io/Tomafia_Modpack_Updater/downloads/1.0.0/Tomafia%20Pack%20Modrinth.zip",
-                "curseforge": "https://sirc23.github.io/Tomafia_Modpack_Updater/downloads/1.0.0/Tomafia%20Pack%20CurseForge.zip",
-                "generic": "https://sirc23.github.io/Tomafia_Modpack_Updater/downloads/1.0.0/Tomafia%20Pack%20Prism.zip"
+                "modrinth": "https://github.com/Sirc23/Tomafia_Modpack_Updater/raw/refs/heads/main/downloads/1.0.0/Tomafia%20Pack%20Modrinth.mrpack",
+                "curseforge": "https://github.com/Sirc23/Tomafia_Modpack_Updater/raw/refs/heads/main/downloads/1.0.0/Tomafia%20Pack%20CurseForge.zip",
+                "generic": "https://github.com/Sirc23/Tomafia_Modpack_Updater/raw/refs/heads/main/downloads/1.0.0/Tomafia%20Pack%20Prism.zip"
             }
         }
     }
