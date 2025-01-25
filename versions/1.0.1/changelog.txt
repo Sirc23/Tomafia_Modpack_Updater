@@ -1,0 +1,33 @@
+Click any of the above buttons to download an import file for a *new* modded Minecraft instance. The Generic button is for the Prism launcher.
+
+Doing this is like re-installing from scratch - all your keybinds, JourneyMap waypoints and exploration data, EVERYTHING will be set back to "factory defaults".
+
+If you find this is unappealing, see the Discord update on how to patch your game instead.
+
+---
+v1.0.1
+
+Added mod: JEI
+-This allows a lot of modded crafting stations to show their recipes in EMI
+
+Added mod: FTB Chunks
+-Lets you claim chunks for protection and chunk loading
+
+Added mod: AppleSkin
+-Displays hunger and saturation values for food
+
+Added mod: KeepCuriosInventory
+-Your Curios trinkets do not leave your inventory on death
+-Yes, it's overpowered with a backpack slot
+-No, I don't care. It's better than people getting upset over their hard-earned trinkets dropping into lava or some shit
+
+Added mod: PVP Flagging
+-Opt-in or opt-out of PvP. Admins can set PvP zones
+
+Removed mod: Botania Artifacts
+-Was causing tools to restore their durability upon hitting almost any entity
+
+Removed mod: FTB Quests
+-I am not going to custom-prepare a quest book for this modpack. I have my limits.
+
+Config change: Iron's Spells no longer cause mobs to drop Malum souls
