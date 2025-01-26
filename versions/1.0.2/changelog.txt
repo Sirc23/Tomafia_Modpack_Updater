@@ -1,0 +1,11 @@
+Click any of the above buttons to download an import file for a *new* modded Minecraft instance. The Generic button is for the Prism launcher.
+
+Doing this is like re-installing from scratch - all your keybinds, JourneyMap waypoints and exploration data, EVERYTHING will be set back to "factory defaults".
+
+If you find this is unappealing, see the Discord update on how to patch your game instead.
+
+---
+v1.0.2
+
+Removed mod: FTB Quests Optimizer
+-Whoops! Didn't test the pack after removing FTBQ.
