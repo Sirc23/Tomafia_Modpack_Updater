@@ -1,0 +1,16 @@
+Click any of the above buttons to download an import file for a *new* modded Minecraft instance.
+
+Doing this is like re-installing from scratch - all your keybinds, JourneyMap waypoints and exploration data, EVERYTHING will be set back to "factory defaults".
+
+If you find this is unappealing, see the Discord update on how to patch your game instead.
+
+---
+v1.0.3
+
+Removed mod: Gravestone
+
+Removed mod: KeepCuriosInventory
+-Was causing a crash when killing certain entities
+
+Added mod: Corpse
+-Different gravestone mod! Curios items stay in this corpse
