@@ -1,0 +1,22 @@
+Click any of the above buttons to download an import file for a *new* modded Minecraft instance.
+
+Doing this is like re-installing from scratch - all your keybinds, JourneyMap waypoints and exploration data, EVERYTHING will be set back to "factory defaults".
+
+If you find this is unappealing, see the Discord update on how to patch your game instead.
+
+---
+v1.0.4
+
+Added mod: Better Combat
+-Joe says it fixes some SimplySwords animations
+
+Added mod: Apotheotic Additions
+-Fixes Affix loot generation for Aether weaponry (they get stronger hrrrrr)
+
+Updated ToadLib
+-enchanting_table_lightning.mp4
+-(Fixed lightning striking enchanting tables whenever interacted with)
+
+Updated Apotheosis config to tweak the properties of various modded weapons to make more intuitive sense to the gem system
+-Basically, big weapons will be counted as large weapons instead of light ones
+-Ask Joe
