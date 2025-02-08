@@ -1,0 +1,41 @@
+Click any of the above buttons to download an import file for a *new* modded Minecraft instance.
+
+Doing this is like re-installing from scratch - all your keybinds, JourneyMap waypoints and exploration data, EVERYTHING will be set back to "factory defaults".
+
+If you find this is unappealing, see the Discord update on how to patch your game instead.
+
+---
+v1.0.5
+
+Added mod: Pipez
+-Cheaper, easier way to move items and fluids around. More importantly, these pipes can filter by NBT data, which is critically important for sorting large quantities of Apothic Affix drops. Yes, I added this because of the Ender Ender.
+
+Added mod: Torchmaster
+-Tom wouldn't stop complaining about Blizz mobs around his house.
+
+Added mod: Polymorph
+-In case multiple mods add identical crafting recipes with different outputs, this mod lets you choose which one to use.
+
+Added mod: Extreme sound muffler
+-You can selectively silence any sound using this mod.
+
+Added mod: Construction Wand
+-Builder's wands are nice QoL tools that let you place large swathes of identical blocks in a pattern.
+
+Added mod: Create Enchantment Industry
+-Automated enchanting, disenchantment, and book duplication using XP.
+
+Added mod: Tom's Simple Storage
+-You win, whiners.
+
+Added mod: Create Big Cannons
+-Tom takes full responsibility here. This mod can level entire buildings. Please be responsible.
+
+
+Added Curios Goggles Slot
+-Tom complained that he couldn't have a Curios hat and his Create goggles. So I added a slot *just* for his goggles.
+
+Added Curios Backpack Slot
+-Tom complained that he couldn't have a Curios back slot item and a backpack. So I added a slot *just* for backpacks.
+
+These Curios slots requires use of a client-side resource pack. If you are patching your game, make sure to follow the steps completely.

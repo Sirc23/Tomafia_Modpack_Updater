@@ -51,6 +51,16 @@
                 "modrinth": "https://github.com/Sirc23/Tomafia_Modpack_Updater/releases/download/v1.0.4/Tomafia.Pack.Modrinth.mrpack"
             }
         }
+    },
+	{
+        "id": "1.0.5",
+        "releasedAt": 1739049849000,
+        "promotions": {
+			"downloads": {
+				"curseforge": "https://github.com/Sirc23/Tomafia_Modpack_Updater/releases/download/v1.0.5/Tomafia.Pack.CurseForge.zip",
+                "modrinth": "https://github.com/Sirc23/Tomafia_Modpack_Updater/releases/download/v1.0.5/Tomafia.Pack.Modrinth.mrpack"
+            }
+        }
     }
   ]
 }
